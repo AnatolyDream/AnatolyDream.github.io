@@ -7,17 +7,19 @@
 .dark-bg-mb {
     background-color: #222;
     color: white;
-    height: 200px;
+    height: 400px;
 }
 
 .LOGO {
-    margin-top: 70px;
+    margin-top: 140px;
     margin-left: 20px;
     font-family: fantasy;
-    font-size: 5rem;
+    font-size: 10rem;
 }
 
 .menuButton {
-    margin-top: 70px;
+    margin-top: 140px;
+    font-size: 8rem;
+    font-family: fantasy;
 }
 
