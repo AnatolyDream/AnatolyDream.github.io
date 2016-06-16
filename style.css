@@ -3,3 +3,21 @@
     color: white;
     height: 100px;
 }
+
+.dark-bg-mb {
+    background-color: #222;
+    color: white;
+    height: 200px;
+}
+
+.LOGO {
+    margin-top: 70px;
+    margin-left: 20px;
+    font-family: fantasy;
+    font-size: 5rem;
+}
+
+.menuButton {
+    margin-top: 70px;
+}
+
