@@ -24,3 +24,14 @@
     color: white;
 }
 
+.hiddenMenu {
+    background-color: #222;
+    height: 200px;
+    color: white;
+}
+
+.menuItem {
+    font-size: 4rem;
+    margin-top: 10px;
+}
+
