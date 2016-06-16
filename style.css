@@ -26,12 +26,20 @@
 
 .hiddenMenu {
     background-color: #222;
-    height: 200px;
+    height: 100%;
     color: white;
 }
 
 .menuItem {
     font-size: 4rem;
-    margin-top: 10px;
+    margin-bottom: 30px;
 }
 
+.row {
+    margin: 0px;
+}
+
+body {
+    padding: 0px;
+    margin: 0px;
+}
