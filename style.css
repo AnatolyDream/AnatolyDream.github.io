@@ -22,12 +22,18 @@
     font-size: 8rem;
     font-family: fantasy;
     color: white;
+    cursor: pointer;
+}
+
+.blueMenuButton {
+    color: deepskyblue;
 }
 
 .hiddenMenu {
     background-color: #222;
     height: 100%;
     color: white;
+    display: none;
 }
 
 .menuItem {
@@ -35,11 +41,23 @@
     margin-bottom: 30px;
 }
 
-.row {
-    margin: 0px;
-}
+
 
 body {
     padding: 0px;
     margin: 0px;
+    background-color: #222;
+}
+
+.row {
+    margin: 0px;
+}
+
+.welcomeMessage {
+    background-color: white;
+    font-size: 5rem;
+}
+
+.welcomeMessage h1 {
+    font-size: 7rem;
 }

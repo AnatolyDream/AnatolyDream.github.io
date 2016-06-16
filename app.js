@@ -1,5 +1,6 @@
 $(document).ready(function(){
-    $('.menu-button').click(function(){
-        $('.hidden-menu').slideToggle();
+    $('.menuButton').click(function(){
+        $('.hiddenMenu').slideToggle();
+        $('.menuButton').toggleClass('blueMenuButton');
     });
 });
